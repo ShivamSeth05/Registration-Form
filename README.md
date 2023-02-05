@@ -9,13 +9,15 @@ Gender	Male Female<br>
 Qualification	<br>
 MCA<br>
 Hobbies	Reading Reading Cricket Swimming<br>
+<br>
+<img src="secure2.jpg">
+<br>
+
 
 <br>
 <img src="secure1.jpg">
 <br>
 
 
-<br>
-<img src="secure2.jpg">
-<br>
+
 
