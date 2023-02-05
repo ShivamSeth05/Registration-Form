@@ -11,11 +11,11 @@ MCA<br>
 Hobbies	Reading Reading Cricket Swimming<br>
 
 <br>
-<img src="Image/secure1.jpg">
+<img src="Registration_form/secure1.jpg">
 <br>
 
 
 <br>
-<img src="Image/secure2.jpg">
+<img src="Registration_form/secure2.jpg">
 <br>
 
